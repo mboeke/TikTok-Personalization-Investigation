@@ -9,7 +9,8 @@ In the following section we will provide a step by step guid how to intialise an
 -- Create user accounts using purchased phone numbers
 
 - explain structure of db_credentials.json
+- explain placeholders: Twilio, Heroku DB, Webshare Proxz API, paths within project
 
 ## Analyzing Generated Data
 
-In order to obtain the most promising results of the Skip-Gram model we trained the model over 5 epochs with a loss rate at 0.1.
+In order to obtain the most promising results of the Skip-Gram model we trained the model over 5 epochs with a learning rate of 0.1.
