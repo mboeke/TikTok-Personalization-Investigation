@@ -1,0 +1,39 @@
+{
+  "113": {
+    "test_user_id": 113,
+    "login": true,
+    "browser_language": "en",
+    "reuse_cookies": false, "time_to_look_at_post_action": 0, "time_to_look_at_post_normal": 2,
+    "number_of_batches": 3,
+    "number_of_posts_to_like_per_batch": [],
+    "number_of_creators_to_follow_per_batch": [],
+    "number_of_posts_to_watch_longer_per_batch": [],
+    "posts_with_hashtag_to_watch_longer": [],
+    "posts_with_hashtag_to_like": [],
+    "posts_of_content_creators_to_like": ["miakhalifa", "alex.stemp", "southcentraljag", "user4350486101671",
+      "spicekingcam", "joe.bartolozzi", "coco224466", "mndiaye_97", "billieeilish", "daddygus99", "edmundrambo",
+      "feast24seven", "copslivetv", "pilaui", "dm_t.v", "papi_pilas", "kate_johansson", "dermdoctor",
+      "patulafamilymcdonalds", "littlecajunhouse", "basii_17", "camwilder", "bonita_alonna", "moontellthat",
+      "paulana52", "kallmekris", "n.ikotheking", "_.video_.edits.23", "....jjesus", "alivaheeronms", "sunflowertubie",
+      "lama_mama1", "ace_dadd", "beforenafter13", "khaby.lame", "americanbullish", "iamjonathanpeter",
+      "noah_and_lincoln", "mamalindy", "hudabeauty", "manchasthetiktoker", "aymieandgracie", "jesusacevedox43",
+      "hypermilt2", "izzy.tube", "willsmith", "614lyfe", "anxietycouple", "campuzanoabelardo"],
+    "posts_of_music_ids_to_like": [],
+    "collecting_data_for_first_posts": true
+  },
+  "114": {
+    "test_user_id": 114,
+    "login": true,
+    "browser_language": "en",
+    "reuse_cookies": false, "time_to_look_at_post_action": 0, "time_to_look_at_post_normal": 2,
+    "number_of_batches": 3,
+    "number_of_posts_to_like_per_batch": [],
+    "number_of_creators_to_follow_per_batch": [],
+    "number_of_posts_to_watch_longer_per_batch": [],
+    "posts_with_hashtag_to_watch_longer": [],
+    "posts_with_hashtag_to_like": [],
+    "posts_of_content_creators_to_like": [],
+    "posts_of_music_ids_to_like": [],
+    "collecting_data_for_first_posts": true
+  }
+}

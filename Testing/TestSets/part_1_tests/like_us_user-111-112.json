@@ -1,0 +1,37 @@
+{
+  "111": {
+    "test_user_id": 111,
+    "login": true,
+    "browser_language": "en",
+    "reuse_cookies": false, "time_to_look_at_post_action": 0, "time_to_look_at_post_normal": 2,
+    "number_of_batches": 3,
+    "number_of_posts_to_like_per_batch": [],
+    "number_of_creators_to_follow_per_batch": [],
+    "number_of_posts_to_watch_longer_per_batch": [],
+    "posts_with_hashtag_to_watch_longer": [],
+    "posts_with_hashtag_to_like": [],
+    "posts_of_content_creators_to_like": ["miakhalifa", "alex.stemp", "coco224466", "....jjesus", "lama_mama1", "espn",
+      "pilaui", "basii_17", "spicekingcam", "the_grinchofficial", "petassembly", "texasbeeworks", "littlecajunhouse",
+      "iamdivinelyloved", "camwilder", "badparentingmoments", "dianarantamaki", "dm_t.v", "majorkeylife", "thejoshelkin",
+      "jacob_t_king", "user4350486101671", "billieeilish", "jackblack", "dermdoctor", "aymieandgracie", "copslivetv",
+      "daddygus99", "joe.bartolozzi", "_.video_.edits.23", "leytink", "n.ikotheking", "paulana52", "kallmekris",
+      "iamjonathanpeter", "mndiaye_97", "genltart"],
+    "posts_of_music_ids_to_like": [],
+    "collecting_data_for_first_posts": true
+  },
+  "112": {
+    "test_user_id": 112,
+    "login": true,
+    "browser_language": "en",
+    "reuse_cookies": false, "time_to_look_at_post_action": 0, "time_to_look_at_post_normal": 2,
+    "number_of_batches": 3,
+    "number_of_posts_to_like_per_batch": [],
+    "number_of_creators_to_follow_per_batch": [],
+    "number_of_posts_to_watch_longer_per_batch": [],
+    "posts_with_hashtag_to_watch_longer": [],
+    "posts_with_hashtag_to_like": [],
+    "posts_of_content_creators_to_like": [],
+    "posts_of_music_ids_to_like": [],
+    "collecting_data_for_first_posts": true
+  }
+}

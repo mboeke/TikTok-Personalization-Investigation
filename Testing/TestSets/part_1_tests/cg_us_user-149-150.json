@@ -1,0 +1,36 @@
+{
+  "149": {
+    "test_user_id": 149,
+    "login": true,
+    "browser_language": "en",
+    "reuse_cookies": true,
+    "time_to_look_at_post_action": 0,
+    "time_to_look_at_post_normal": 0.5,
+    "number_of_batches": 3,
+    "number_of_posts_to_like_per_batch": [],
+    "number_of_creators_to_follow_per_batch": [],
+    "number_of_posts_to_watch_longer_per_batch": [],
+    "posts_with_hashtag_to_watch_longer": [],
+    "posts_with_hashtag_to_like": [],
+    "posts_of_content_creators_to_like": [],
+    "posts_of_music_ids_to_like": [],
+    "collecting_data_for_first_posts": false
+  },
+  "150": {
+    "test_user_id": 150,
+    "login": true,
+    "browser_language": "en",
+    "reuse_cookies": true,
+    "time_to_look_at_post_action": 0,
+    "time_to_look_at_post_normal": 0.5,
+    "number_of_batches": 3,
+    "number_of_posts_to_like_per_batch": [],
+    "number_of_creators_to_follow_per_batch": [],
+    "number_of_posts_to_watch_longer_per_batch": [],
+    "posts_with_hashtag_to_watch_longer": [],
+    "posts_with_hashtag_to_like": [],
+    "posts_of_content_creators_to_like": [],
+    "posts_of_music_ids_to_like": [],
+    "collecting_data_for_first_posts": false
+  }
+}

@@ -1,0 +1,373 @@
+    # proxy_host1, proxy_port1 = get_db_proxy(c1)
+    # proxy_host2, proxy_port2 = get_db_proxy(c1)
+    # proxy_host3, proxy_port3 = get_db_proxy(c2)
+        # proxy_host4, proxy_port4 = get_db_proxy(c2)
+
+    # tests = [
+    #     {"test_user_id": 4, "phone": "+15039664089", "password": "66E^ZQL!vvBtQ10",
+    #      "browser_language": "en", "proxy":
+    #          {
+    #              'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+    #              'proxy_host': proxy_host1, 'proxy_port': proxy_port1,
+    #              'country': c1
+    #          }
+    #      },
+    #     {"test_user_id": 5, "email": "", "password": "",
+    #      "browser_language": "en", "proxy":
+    #          {
+    #              'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+    #              'proxy_host': proxy_host2, 'proxy_port': proxy_port2,
+    #              'country': c1
+    #          }
+    #      },
+    #     {"test_user_id": 8, "email": "loc2021@mailinator.com", "password": "%@NreeHIwb*55O5@zD48",
+    #      "browser_language": "en", "proxy":
+    #          {
+    #              'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+    #              'proxy_host': proxy_host3, 'proxy_port': proxy_port3,
+    #              'country': c2
+    #          }
+    #      },
+    #     {"test_user_id": 9, "email": "loc2021@mailinator.com", "password": "%@NreeHIwb*55O5@zD48",
+    #      "browser_language": "en", "proxy":
+    #         {
+    #             'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+    #             'proxy_host': proxy_host4, 'proxy_port': proxy_port4,
+    #             'country': c2
+    #         }
+    #      }
+    # ]
+
+liking_test_data_GB_TERMINATED = [
+        {"test_user_id": 18, "phone_number": "7782392349", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 2, 0], "collecting_data_for_first_posts": True,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '84.21.191.158', 'proxy_port': '7693', 'country': c2}
+         },
+        {"test_user_id": 19, "phone_number": "7830320683", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0], "collecting_data_for_first_posts": True,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '185.205.194.149', 'proxy_port': '7669', 'country': c2}
+         }
+    ]
+    liking_test_data_US_TERMINATED = [
+        {"test_user_id": 16, "phone_number": "4422333847", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [1, 2, 0], "collecting_data_for_first_posts": False,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '144.168.145.23', 'proxy_port': '6071', 'country': 'US'}
+         },
+        {"test_user_id": 17, "phone_number": "3212148470", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0], "collecting_data_for_first_posts": False,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '45.95.96.74', 'proxy_port': '8633', 'country': 'US'}
+         }
+    ]
+    liking_test_data_US_2_TERMINATED = [
+        {"test_user_id": 20, "phone_number": "8312176994", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "collecting_data_for_first_posts": False,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '185.245.25.227', 'proxy_port': '6488', 'country': 'US'}
+         },
+        {"test_user_id": 21, "phone_number": "4047245942", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0], "collecting_data_for_first_posts": False,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '69.58.9.107', 'proxy_port': '7177', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_US_3_RETIRED = [ - f - n released - p released
+        {"test_user_id": 22, "phone_number": "9842073250", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 3,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '104.227.223.150', 'proxy_port': '8237', 'country': 'US'}
+         },
+        {"test_user_id": 24, "phone_number": "4159152943", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 3,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '192.186.151.45', 'proxy_port': '8546', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_US_4_RETIRED = [ - f - n released - p released
+        {"test_user_id": 25, "phone_number": "4708655967", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 3,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '23.236.255.252', 'proxy_port': '7303', 'country': 'US'}
+         },
+        {"test_user_id": 26, "phone_number": "7574016436", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 3,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '198.154.89.99', 'proxy_port': '6190', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_US_5_RETIRED = [
+        {"test_user_id": 29, "phone_number": "2405341663", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '192.186.151.39', 'proxy_port': '8540', 'country': 'US'}
+         },
+        {"test_user_id": 30, "phone_number": "4133142542", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '107.152.222.16', 'proxy_port': '9039', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_US_6_RETIRED = [ - f
+        {"test_user_id": 31, "phone_number": "3344589498", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '107.152.197.103', 'proxy_port': '8125', 'country': 'US'}
+         },
+        {"test_user_id": 32, "phone_number": "9412026980", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '192.186.172.148', 'proxy_port': '9148', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_US_7_RETIRED = [ - f
+        {"test_user_id": 33, "phone_number": "2512902763", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "collecting_data_for_first_posts": True,
+         "posts_with_hashtag_to_like_or_watch_longer": [], "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '23.236.247.85', 'proxy_port': '8117', 'country': 'US'}
+         },
+        {"test_user_id": 34, "phone_number": "3308864708", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "collecting_data_for_first_posts": True,
+         "posts_with_hashtag_to_like_or_watch_longer": [], "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '198.154.92.82', 'proxy_port': '9152', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_US_8_RETIRED = [ - f
+        {"test_user_id": 38, "phone_number": "", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '45.72.65.58', 'proxy_port': '8641', 'country': 'US'}
+         },
+        {"test_user_id": 39, "phone_number": "", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '45.72.65.58', 'proxy_port': '8641', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_US_9_COPIED = [
+        {"test_user_id": 45, "phone_number": "5173064632", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 6, 6, 6, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '186.179.7.70', 'proxy_port': '8147', 'country': 'US'}
+         },
+        {"test_user_id": 46, "phone_number": "8125944201", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '23.254.30.81', 'proxy_port': '8615', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_US_10_COPIED = [
+        {"test_user_id": 57, "phone_number": "8173832680", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '104.144.34.18', 'proxy_port': '7602', 'country': 'US'}
+         },
+        {"test_user_id": 58, "phone_number": "9719838057", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '45.130.127.97', 'proxy_port': '8101', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_US_11_COPIED = [
+        {"test_user_id": 59, "phone_number": "5164730008", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 6, 6, 6, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '209.127.165.104', 'proxy_port': '7196', 'country': 'US'}
+         },
+        {"test_user_id": 60, "phone_number": "9734255035", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '104.227.101.96', 'proxy_port': '6157', 'country': 'US'}
+         }
+    ]
+
+    liking_test_data_GB_2_RETIRED = [ - f
+        {"test_user_id": 27, "phone_number": "7862137759", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 4, 4, 4, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '84.21.188.34', 'proxy_port': '8568', 'country': c2}
+         },
+        {"test_user_id": 28, "phone_number": "7401195131", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '84.21.188.127', 'proxy_port': '8661', 'country': c2}
+         }
+    ]
+
+    liking_test_data_GB_3_RETIRED = [ - f
+        {"test_user_id": 35, "phone_number": "7862148574", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '64.43.91.193', 'proxy_port': '6964', 'country': c2}
+         },
+        {"test_user_id": 36, "phone_number": "7862144557", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '64.43.90.209', 'proxy_port': '6724', 'country': c2}
+         }
+    ]
+
+    liking_test_data_GB_4_RETIRED = [ - f
+        {"test_user_id": 40, "phone_number": "7588702346", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '64.43.90.113', 'proxy_port': '6628', 'country': 'GB'}
+         },
+        {"test_user_id": 41, "phone_number": "7782376214", "password": "IOw2z*W282&X", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '64.43.89.71', 'proxy_port': '6330', 'country': 'GB'}
+         }
+    ]
+
+    no_acc_liking_test_data_FR_1_COPIED = [
+        {"test_user_id": 55, "phone_number": "", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '45.9.122.193', 'proxy_port': '8274', 'country': 'GB'}
+         },
+        {"test_user_id": 56, "phone_number": "", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United Kingdom", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [0, 0, 0, 0, 0], "number_of_creators_to_follow_per_batch": [],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 5,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '45.9.122.157', 'proxy_port': '8238', 'country': 'GB'}
+         }
+    ]
+
+    follower_test_data_US_1_COPIED = [
+        {"test_user_id": 47, "phone_number": "8654090602", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [], "number_of_creators_to_follow_per_batch": [0, 0, 0],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 3,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '45.57.168.191', 'proxy_port': '7195', 'country': 'US'}
+         },
+        {"test_user_id": 48, "phone_number": "5165307204", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [], "number_of_creators_to_follow_per_batch": [0, 0, 0],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": True, "number_of_batches": 3,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '45.57.243.208', 'proxy_port': '7749', 'country': 'US'}
+         }
+    ]
+
+    follower_test_data_US_2_COPIED = [
+        {"test_user_id": 49, "phone_number": "4198635492", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [], "number_of_creators_to_follow_per_batch": [0, 1, 0],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 3,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '23.236.162.78', 'proxy_port': '9125', 'country': 'US'}
+         },
+        {"test_user_id": 50, "phone_number": "2153984346", "password": "", "browser_language": "en",
+         "country_phone_number_prefix": "United States", "time_to_look_at_post": 2,
+         "number_of_posts_to_like_per_batch": [], "number_of_creators_to_follow_per_batch": [0, 0, 0],
+         "posts_with_hashtag_to_like_or_watch_longer": [], "collecting_data_for_first_posts": False, "number_of_batches": 3,
+         "proxy":
+             {'proxy_username': proxy_auth_username, 'proxy_password': proxy_auth_password,
+              'proxy_host': '132.255.132.96', 'proxy_port': '7619', 'country': 'US'}
+         }
+    ]

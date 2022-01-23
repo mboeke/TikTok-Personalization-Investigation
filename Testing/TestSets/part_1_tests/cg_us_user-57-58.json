@@ -1,0 +1,28 @@
+{
+  "57": {
+    "test_user_id": 57,
+    "login": true,
+    "browser_language": "en",
+    "reuse_cookies": false, "time_to_look_at_post_action": 0, "time_to_look_at_post_normal": 2,
+    "number_of_batches": 5,
+    "number_of_posts_to_like_per_batch": [],
+    "number_of_creators_to_follow_per_batch": [],
+    "posts_with_hashtag_to_like": [],
+    "posts_of_content_creators_to_like": [],
+    "posts_of_music_ids_to_like": [],
+    "collecting_data_for_first_posts": true
+  },
+  "58": {
+    "test_user_id": 58,
+    "login": true,
+    "browser_language": "en",
+    "reuse_cookies": false, "time_to_look_at_post_action": 0, "time_to_look_at_post_normal": 2,
+    "number_of_batches": 5,
+    "number_of_posts_to_like_per_batch": [],
+    "number_of_creators_to_follow_per_batch": [],
+    "posts_with_hashtag_to_like": [],
+    "posts_of_content_creators_to_like": [],
+    "posts_of_music_ids_to_like": [],
+    "collecting_data_for_first_posts": true
+  }
+}

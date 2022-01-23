@@ -1,0 +1,3505 @@
+{
+  "props": {
+    "initialProps": {
+      "statusCode": 0,
+      "$wid": "6933273718471607813",
+      "$host": "www.tiktok.com",
+      "$pageUrl": "/?is_copy_url=1\u0026is_from_webapp=v1",
+      "$fullUrl": "https://www.tiktok.com/?is_copy_url=1\u0026is_from_webapp=v1",
+      "$isMobile": false,
+      "$isAndroid": false,
+      "$isIOS": false,
+      "$needFix": false,
+      "$requestId": "51090581614278621810",
+      "$cookieConsent": {
+        "ga": true,
+        "af": true,
+        "fbp": true,
+        "lip": true
+      },
+      "$deviceLimitRegisterExpired": true,
+      "$slardarAlpha": {
+        "enable": true,
+        "pageId": [
+          "homepage_hot"
+        ],
+        "gcp": "https://sf16-scmcdn-gcp.ibytedtos.com/goofy/slardar/fe/sdk/browser.3.7.7-alpha.1.india.js",
+        "va": "https://sf16-scmcdn-va.ibytedtos.com/goofy/slardar/fe/sdk/browser.3.7.7-alpha.1.maliva.js"
+      },
+      "$csrfToken": "MPKYTj4AHbjuO3iulub6icfJ",
+      "$region": "CH",
+      "$language": "en",
+      "$originalLanguage": "en",
+      "$languageList": [
+        {
+          "value": "en",
+          "label": "English",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ar",
+          "label": "العربية",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "de-DE",
+          "label": "Deutsch (Deutschland)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "es",
+          "label": "Español",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "fi-FI",
+          "label": "Suomi (Suomi)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "fr",
+          "label": "Français",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "id-ID",
+          "label": "Bahasa Indonesia (Indonesia)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ja-JP",
+          "label": "日本語（日本）",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ko-KR",
+          "label": "한국어 (대한민국)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ms-MY",
+          "label": "Bahasa Melayu (Malaysia)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ru-RU",
+          "label": "Русский",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "th-TH",
+          "label": "ไทย (ไทย)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "tr-TR",
+          "label": "Türkçe (Türkiye)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "vi-VN",
+          "label": "Tiếng Việt (Việt Nam)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "zh-Hant-TW",
+          "label": "繁體中文",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "af-ZA",
+          "label": "Afrikaans",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "he-IL",
+          "label": "עברית (ישראל)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "jv-ID",
+          "label": "Basa Jawa (Indonesia)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ceb-PH",
+          "label": "Cebuano (Pilipinas)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "cs-CZ",
+          "label": "Čeština (Česká republika)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "it-IT",
+          "label": "Italiano (Italia)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "hu-HU",
+          "label": "Magyar (Magyarország)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "nl-NL",
+          "label": "Nederlands (Nederland)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pl-PL",
+          "label": "Polski (Polska)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pt-BR",
+          "label": "Português (Brasil)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ro-RO",
+          "label": "Română (Romania)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "sv-SE",
+          "label": "Svenska (Sverige)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "sw",
+          "label": "Kiswahili",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "fil-PH",
+          "label": "Filipino (Pilipinas)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "el-GR",
+          "label": "Ελληνικά (Ελλάδα)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "zu-ZA",
+          "label": "isiZulu",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "uk-UA",
+          "label": "Українська (Україна)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ur",
+          "label": "اردو",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "mr-IN",
+          "label": "मराठी",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "hi-IN",
+          "label": "हिंदी",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "bn-IN",
+          "label": "বাঙ্গালি (ভারত)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pa-IN",
+          "label": "ਪੰਜਾਬੀ (ਭਾਰਤ)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "gu-IN",
+          "label": "ગુજરાતી",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "or-IN",
+          "label": "ଓଡିଆ",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ta-IN",
+          "label": "தமிழ்",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "te-IN",
+          "label": "తెలుగు",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "kn-IN",
+          "label": "ಕನ್ನಡ",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ml-IN",
+          "label": "മലയാളം",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "my-MM",
+          "label": "မြန်မာ (မြန်မာ)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "km-KH",
+          "label": "ខ្មែរ (កម្ពុជា)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "$appId": 1233,
+      "$os": "windows",
+      "$baseURL": "m.tiktok.com",
+      "$downloadLink": {
+        "amazon": {
+          "visible": true,
+          "normal": "https://www.amazon.com/dp/B0117U0G3M/"
+        },
+        "google": {
+          "visible": true,
+          "normal": "https://www.tiktok.com/download-link/af/com.zhiliaoapp.musically"
+        },
+        "apple": {
+          "visible": true,
+          "normal": "https://www.tiktok.com/download-link/af/id835599320"
+        }
+      },
+      "$abTestVersion": {
+        "versionName": "50008719,50039880,50038266,50012986,50037917",
+        "parameters": {
+          "shape_js_upload_test": {
+            "enable": "false"
+          },
+          "search_user_grayscale_test": {
+            "vid": "v2"
+          },
+          "shape_js_test": {
+            "enable": "true"
+          },
+          "video_mute_test": {
+            "vid": "v3"
+          },
+          "node_data_source_test": {
+            "vid": "v2"
+          },
+          "embed_v2_test": {
+            "vid": "v1"
+          },
+          "shape_js_webapp_test": {
+            "enable": "true"
+          },
+          "others_feed_test": {
+            "vid": "v3"
+          },
+          "open_live_switch": {
+            "open": true,
+            "showTotalUser": true
+          },
+          "video_detail_test": {
+            "vid": "v4"
+          },
+          "detail_page_video_card_test": {
+            "vid": "v1"
+          },
+          "open_url_test": {
+            "vid": "v1"
+          },
+          "mobile_video_detail_test": {
+            "vid": "v3"
+          },
+          "change_url_test": {
+            "vid": "v1"
+          },
+          "nothing_test": {
+            "vid": "v1"
+          }
+        }
+      },
+      "$appType": "m",
+      "$gray": {
+        "upload": false,
+        "tea": true
+      },
+      "$reflowType": "t",
+      "$legalList": [
+        {
+          "title": "TikTok Platform Cookies Policy",
+          "key": "cookie-policy",
+          "href": "https://www.tiktok.com/legal/cookie-policy?lang=en"
+        },
+        {
+          "title": "Intellectual Property Policy",
+          "key": "copyright-policy",
+          "href": "https://www.tiktok.com/legal/copyright-policy?lang=en"
+        },
+        {
+          "title": "Law Enforcement",
+          "key": "law-enforcement",
+          "href": "https://www.tiktok.com/legal/law-enforcement?lang=en"
+        },
+        {
+          "title": "Privacy Policy",
+          "key": "privacy-policy",
+          "href": "https://www.tiktok.com/legal/privacy-policy?lang=en"
+        },
+        {
+          "title": "Terms of Service",
+          "key": "terms-of-use",
+          "href": "https://www.tiktok.com/legal/terms-of-use?lang=en"
+        }
+      ],
+      "$botType": "others",
+      "$config": {
+        "covidBanner": {
+          "open": true,
+          "url": "https://www.tiktok.com/safety/resources/covid-19",
+          "background": "rgba(125,136,227,1)"
+        },
+        "bytedanceLink": {
+          "linkVisible": true,
+          "overrideUrl": ""
+        },
+        "krPopup": {
+          "open": false,
+          "url": "",
+          "text": []
+        },
+        "sgOpen": {
+          "SG_OPEN": false,
+          "BOT_THRESHOLD": 70,
+          "EXCLUDE_REGIONS": [
+            "DE",
+            "PT",
+            "DK",
+            "LT",
+            "LU",
+            "HR",
+            "LV",
+            "UA",
+            "HU",
+            "MC",
+            "MD",
+            "ME",
+            "IE",
+            "MK",
+            "EE",
+            "AD",
+            "IM",
+            "MT",
+            "IS",
+            "AL",
+            "IT",
+            "VA",
+            "ES",
+            "EU",
+            "AT",
+            "JE",
+            "RO",
+            "NL",
+            "BA",
+            "NO",
+            "RS",
+            "BE",
+            "FI",
+            "BG",
+            "FO",
+            "FR",
+            "SE",
+            "SI",
+            "BY",
+            "SJ",
+            "SK",
+            "SM",
+            "GB",
+            "GE",
+            "GG",
+            "GI",
+            "CH",
+            "GR",
+            "CY",
+            "CZ",
+            "PL",
+            "LI",
+            "TR",
+            "UY",
+            "FK",
+            "CL",
+            "PY",
+            "CO",
+            "GS",
+            "BO",
+            "VE",
+            "BR",
+            "AR",
+            "GY",
+            "PE",
+            "EC",
+            "GF",
+            "SR",
+            "BB",
+            "TT",
+            "PR",
+            "JM",
+            "HN",
+            "DM",
+            "BL",
+            "BM",
+            "DO",
+            "HT",
+            "BQ",
+            "BS",
+            "BZ",
+            "MF",
+            "GD",
+            "CA",
+            "US",
+            "KN",
+            "SV",
+            "MQ",
+            "GL",
+            "SX",
+            "AG",
+            "MS",
+            "AI",
+            "GP",
+            "MX",
+            "GT",
+            "VC",
+            "KY",
+            "CR",
+            "TC",
+            "PA",
+            "VG",
+            "CU",
+            "VI",
+            "CW",
+            "AW",
+            "LC",
+            "NI",
+            "PM"
+          ]
+        },
+        "signUpOpen": true,
+        "shouldBlock": false,
+        "shapeInit": {
+          "ajaxEnable": true,
+          "scriptEnable": false
+        }
+      },
+      "$navList": {
+        "i18n": {
+          "logout": "Log out",
+          "login": "login",
+          "uploadVideo": "Upload video",
+          "watchNow": "Watch now",
+          "downloadOnAppStore": "Download it for free on the App Store",
+          "downloadOnGooglePlay": "Download it for free on Google Play",
+          "reflowDownload": "Download now",
+          "download": "Download",
+          "trending": "Trending",
+          "discover": "Discover",
+          "cookieBannerTitle": "Select your cookies preferences",
+          "cookieBannerSubTitle": "We use cookies and other technologies to improve your experience on our websites. By clicking \"Accept all\", you agree to let us use third-party cookies for analytics and advertising purposes. You can learn more about how we use cookies in our \u003ca href=\"https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=en\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eCookies Policy\u003c/a\u003e. To manage your cookies, click \"Manage settings\".",
+          "cookieBannerBtnManage": "Manage settings",
+          "cookieBannerBtnAccept": "Accept all",
+          "cookiesBannerDetails": "We and our partners use cookies and other technologies to  analyze traffic and optimize your experience. View more info and control your  cookies settings at any time in our Cookies Policy.",
+          "cookiesBannerCookiesPolicy": "Cookies Policy",
+          "cookiesBannerAccept": "Accept",
+          "webDoNotSellSettingsSavedToast": "Saved!",
+          "covidBannerText": "How TikTok is supporting our community through COVID-19",
+          "viewProfile": "View profile",
+          "viewAnalytics": "View Analytics",
+          "Logout": "Log out",
+          "businessSuite": "Business Suite"
+        },
+        "nav": [
+          {
+            "title": "Company",
+            "children": [
+              {
+                "title": "About",
+                "href": "https://www.tiktok.com/about?lang=en"
+              },
+              {
+                "title": "Newsroom",
+                "href": "https://newsroom.tiktok.com/"
+              },
+              {
+                "title": "Contact",
+                "href": "https://www.tiktok.com/about/contact?lang=en"
+              },
+              {
+                "title": "Careers",
+                "href": "https://careers.tiktok.com"
+              },
+              {
+                "title": "ByteDance",
+                "href": "https://www.bytedance.com/"
+              }
+            ]
+          },
+          {
+            "title": "Programs",
+            "children": [
+              {
+                "title": "TikTok for Good",
+                "href": "https://www.tiktok.com/forgood"
+              },
+              {
+                "title": "Advertise",
+                "href": "https://ads.tiktok.com/?refer=tiktok_web"
+              },
+              {
+                "title": "Developers",
+                "href": "https://developers.tiktok.com/?refer=tiktok_web"
+              }
+            ]
+          },
+          {
+            "title": "Support",
+            "children": [
+              {
+                "title": "Help Center",
+                "href": "https://support.tiktok.com/en"
+              },
+              {
+                "title": "Safety Center",
+                "href": "https://www.tiktok.com/safety?lang=en"
+              },
+              {
+                "title": "Creator Portal",
+                "href": "https://www.tiktok.com/creators/creator-portal/en-us/"
+              },
+              {
+                "title": "Community Guidelines",
+                "href": "https://www.tiktok.com/community-guidelines?lang=en"
+              },
+              {
+                "title": "Transparency",
+                "href": "https://www.tiktok.com/transparency?lang=en"
+              }
+            ]
+          },
+          {
+            "title": "Legal",
+            "children": [
+              {
+                "title": "TikTok Platform Cookies Policy",
+                "key": "cookie-policy",
+                "href": "https://www.tiktok.com/legal/cookie-policy?lang=en"
+              },
+              {
+                "title": "Intellectual Property Policy",
+                "key": "copyright-policy",
+                "href": "https://www.tiktok.com/legal/copyright-policy?lang=en"
+              },
+              {
+                "title": "Law Enforcement",
+                "key": "law-enforcement",
+                "href": "https://www.tiktok.com/legal/law-enforcement?lang=en"
+              },
+              {
+                "title": "Privacy Policy",
+                "key": "privacy-policy",
+                "href": "https://www.tiktok.com/legal/privacy-policy?lang=en"
+              },
+              {
+                "title": "Terms of Service",
+                "key": "terms-of-use",
+                "href": "https://www.tiktok.com/legal/terms-of-use?lang=en"
+              }
+            ]
+          }
+        ],
+        "head": [
+          {
+            "title": "Home",
+            "href": "https://www.tiktok.com/en/"
+          },
+          {
+            "title": "About TikTok",
+            "href": "https://www.tiktok.com/about?lang=en"
+          },
+          {
+            "title": "Trending",
+            "href": "https://www.tiktok.com/trending?lang=en",
+            "visibleOnMobile": true
+          },
+          {
+            "title": "Discover",
+            "href": "https://www.tiktok.com/discover?lang=en"
+          },
+          {
+            "title": "Following",
+            "href": "https://www.tiktok.com/following?lang=en"
+          }
+        ],
+        "langList": [
+          {
+            "value": "id",
+            "label": "Bahasa Indonesia"
+          },
+          {
+            "value": "de",
+            "label": "Deutsch"
+          },
+          {
+            "value": "en",
+            "label": "English"
+          },
+          {
+            "value": "es",
+            "label": "Español"
+          },
+          {
+            "value": "fr",
+            "label": "Français"
+          },
+          {
+            "value": "it",
+            "label": "Italiano"
+          },
+          {
+            "value": "pl",
+            "label": "Polski"
+          },
+          {
+            "value": "pt_BR",
+            "label": "Português"
+          },
+          {
+            "value": "vi",
+            "label": "Tiếng Việt"
+          },
+          {
+            "value": "tr",
+            "label": "Türkçe"
+          },
+          {
+            "value": "ru",
+            "label": "Русский"
+          },
+          {
+            "value": "hi",
+            "label": "हिन्दी"
+          },
+          {
+            "value": "ko",
+            "label": "한국어"
+          },
+          {
+            "value": "ja",
+            "label": "日本語"
+          },
+          {
+            "value": "zh_Hant",
+            "label": "繁體中文"
+          },
+          {
+            "value": "ar",
+            "label": "العربية"
+          }
+        ]
+      },
+      "$isIMessage": false,
+      "$sgOpen": false
+    },
+    "pageProps": {
+      "statusCode": 0,
+      "is_copy_url": "1",
+      "is_from_webapp": "v1",
+      "seoProps": {
+        "pageId": "",
+        "pageType": 101,
+        "metaParams": {
+          "title": "TikTok - Make Your Day",
+          "keywords": "TikTok, TikTok, musically, mobile video, short-form video,tik tok, tick tock, tic tok, tic toc, tictok, тик ток, ticktock",
+          "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+          "robotsContent": "index, follow",
+          "canonicalHref": "https://www.tiktok.com/en/",
+          "applicableDevice": "pc, mobile"
+        },
+        "itemList": [],
+        "jsonldList": [
+          [
+            "WebSite",
+            {
+              "id": "https://www.tiktok.com/#website",
+              "url": "https://www.tiktok.com",
+              "name": "TikTok - Make Your Day",
+              "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+              "organProps": {
+                "id": "https://www.tiktok.com/#organization",
+                "name": "TikTok",
+                "url": "https://www.tiktok.com",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"
+                },
+                "sameAs": [
+                  "https://www.instagram.com/tiktok/",
+                  "https://www.facebook.com/tiktok",
+                  "https://www.twitter.com/tiktok_us",
+                  "https://www.youtube.com/channel/UChPd_WHrv3O-XAXXHLixs7g"
+                ]
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": "https://www.tiktok.com/search?q={search_term_string}",
+                  "query-input": "required name=search_term_string"
+                },
+                {
+                  "@type": "SearchAction",
+                  "target": "tiktok://search?keyword={search_term_string}",
+                  "query-input": "required name=search_term_string"
+                }
+              ]
+            }
+          ],
+          [
+            "ItemList",
+            {
+              "itemList": []
+            }
+          ]
+        ]
+      },
+      "$language": "en",
+      "$initialProps": {
+        "$wid": "6933273718471607813",
+        "$host": "www.tiktok.com",
+        "$pageUrl": "/?is_copy_url=1\u0026is_from_webapp=v1",
+        "$fullUrl": "https://www.tiktok.com/?is_copy_url=1\u0026is_from_webapp=v1",
+        "$isMobile": false,
+        "$isAndroid": false,
+        "$isIOS": false,
+        "$needFix": false,
+        "$requestId": "51090581614278621810",
+        "$cookieConsent": {
+          "ga": true,
+          "af": true,
+          "fbp": true,
+          "lip": true
+        },
+        "$deviceLimitRegisterExpired": true,
+        "$slardarAlpha": {
+          "enable": true,
+          "pageId": [
+            "homepage_hot"
+          ],
+          "gcp": "https://sf16-scmcdn-gcp.ibytedtos.com/goofy/slardar/fe/sdk/browser.3.7.7-alpha.1.india.js",
+          "va": "https://sf16-scmcdn-va.ibytedtos.com/goofy/slardar/fe/sdk/browser.3.7.7-alpha.1.maliva.js"
+        },
+        "$csrfToken": "MPKYTj4AHbjuO3iulub6icfJ",
+        "$region": "CH",
+        "$language": "en",
+        "$originalLanguage": "en",
+        "$languageList": [
+          {
+            "value": "en",
+            "label": "English",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ar",
+            "label": "العربية",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "de-DE",
+            "label": "Deutsch (Deutschland)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "es",
+            "label": "Español",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "fi-FI",
+            "label": "Suomi (Suomi)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "fr",
+            "label": "Français",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "id-ID",
+            "label": "Bahasa Indonesia (Indonesia)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ja-JP",
+            "label": "日本語（日本）",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ko-KR",
+            "label": "한국어 (대한민국)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ms-MY",
+            "label": "Bahasa Melayu (Malaysia)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ru-RU",
+            "label": "Русский",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "th-TH",
+            "label": "ไทย (ไทย)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "tr-TR",
+            "label": "Türkçe (Türkiye)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "vi-VN",
+            "label": "Tiếng Việt (Việt Nam)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "zh-Hant-TW",
+            "label": "繁體中文",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "af-ZA",
+            "label": "Afrikaans",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "he-IL",
+            "label": "עברית (ישראל)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "jv-ID",
+            "label": "Basa Jawa (Indonesia)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ceb-PH",
+            "label": "Cebuano (Pilipinas)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "cs-CZ",
+            "label": "Čeština (Česká republika)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "it-IT",
+            "label": "Italiano (Italia)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "hu-HU",
+            "label": "Magyar (Magyarország)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "nl-NL",
+            "label": "Nederlands (Nederland)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "pl-PL",
+            "label": "Polski (Polska)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "pt-BR",
+            "label": "Português (Brasil)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ro-RO",
+            "label": "Română (Romania)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "sv-SE",
+            "label": "Svenska (Sverige)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "sw",
+            "label": "Kiswahili",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "fil-PH",
+            "label": "Filipino (Pilipinas)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "el-GR",
+            "label": "Ελληνικά (Ελλάδα)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "zu-ZA",
+            "label": "isiZulu",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "uk-UA",
+            "label": "Українська (Україна)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ur",
+            "label": "اردو",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "mr-IN",
+            "label": "मराठी",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "hi-IN",
+            "label": "हिंदी",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "bn-IN",
+            "label": "বাঙ্গালি (ভারত)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "pa-IN",
+            "label": "ਪੰਜਾਬੀ (ਭਾਰਤ)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "gu-IN",
+            "label": "ગુજરાતી",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "or-IN",
+            "label": "ଓଡିଆ",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ta-IN",
+            "label": "தமிழ்",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "te-IN",
+            "label": "తెలుగు",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "kn-IN",
+            "label": "ಕನ್ನಡ",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "ml-IN",
+            "label": "മലയാളം",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "my-MM",
+            "label": "မြန်မာ (မြန်မာ)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          },
+          {
+            "value": "km-KH",
+            "label": "ខ្មែរ (កម្ពុជា)",
+            "children": [
+              {
+                "value": "default",
+                "label": ""
+              }
+            ]
+          }
+        ],
+        "$appId": 1233,
+        "$os": "windows",
+        "$baseURL": "m.tiktok.com",
+        "$downloadLink": {
+          "amazon": {
+            "visible": true,
+            "normal": "https://www.amazon.com/dp/B0117U0G3M/"
+          },
+          "google": {
+            "visible": true,
+            "normal": "https://www.tiktok.com/download-link/af/com.zhiliaoapp.musically"
+          },
+          "apple": {
+            "visible": true,
+            "normal": "https://www.tiktok.com/download-link/af/id835599320"
+          }
+        },
+        "$abTestVersion": {
+          "versionName": "50008719,50039880,50038266,50012986,50037917",
+          "parameters": {
+            "shape_js_upload_test": {
+              "enable": "false"
+            },
+            "search_user_grayscale_test": {
+              "vid": "v2"
+            },
+            "shape_js_test": {
+              "enable": "true"
+            },
+            "video_mute_test": {
+              "vid": "v3"
+            },
+            "node_data_source_test": {
+              "vid": "v2"
+            },
+            "embed_v2_test": {
+              "vid": "v1"
+            },
+            "shape_js_webapp_test": {
+              "enable": "true"
+            },
+            "others_feed_test": {
+              "vid": "v3"
+            },
+            "open_live_switch": {
+              "open": true,
+              "showTotalUser": true
+            },
+            "video_detail_test": {
+              "vid": "v4"
+            },
+            "detail_page_video_card_test": {
+              "vid": "v1"
+            },
+            "open_url_test": {
+              "vid": "v1"
+            },
+            "mobile_video_detail_test": {
+              "vid": "v3"
+            },
+            "change_url_test": {
+              "vid": "v1"
+            },
+            "nothing_test": {
+              "vid": "v1"
+            }
+          }
+        },
+        "$appType": "m",
+        "$gray": {
+          "upload": false,
+          "tea": true
+        },
+        "$reflowType": "t",
+        "$legalList": [
+          {
+            "title": "TikTok Platform Cookies Policy",
+            "key": "cookie-policy",
+            "href": "https://www.tiktok.com/legal/cookie-policy?lang=en"
+          },
+          {
+            "title": "Intellectual Property Policy",
+            "key": "copyright-policy",
+            "href": "https://www.tiktok.com/legal/copyright-policy?lang=en"
+          },
+          {
+            "title": "Law Enforcement",
+            "key": "law-enforcement",
+            "href": "https://www.tiktok.com/legal/law-enforcement?lang=en"
+          },
+          {
+            "title": "Privacy Policy",
+            "key": "privacy-policy",
+            "href": "https://www.tiktok.com/legal/privacy-policy?lang=en"
+          },
+          {
+            "title": "Terms of Service",
+            "key": "terms-of-use",
+            "href": "https://www.tiktok.com/legal/terms-of-use?lang=en"
+          }
+        ],
+        "$botType": "others",
+        "$config": {
+          "covidBanner": {
+            "open": true,
+            "url": "https://www.tiktok.com/safety/resources/covid-19",
+            "background": "rgba(125,136,227,1)"
+          },
+          "bytedanceLink": {
+            "linkVisible": true,
+            "overrideUrl": ""
+          },
+          "krPopup": {
+            "open": false,
+            "url": "",
+            "text": []
+          },
+          "sgOpen": {
+            "SG_OPEN": false,
+            "BOT_THRESHOLD": 70,
+            "EXCLUDE_REGIONS": [
+              "DE",
+              "PT",
+              "DK",
+              "LT",
+              "LU",
+              "HR",
+              "LV",
+              "UA",
+              "HU",
+              "MC",
+              "MD",
+              "ME",
+              "IE",
+              "MK",
+              "EE",
+              "AD",
+              "IM",
+              "MT",
+              "IS",
+              "AL",
+              "IT",
+              "VA",
+              "ES",
+              "EU",
+              "AT",
+              "JE",
+              "RO",
+              "NL",
+              "BA",
+              "NO",
+              "RS",
+              "BE",
+              "FI",
+              "BG",
+              "FO",
+              "FR",
+              "SE",
+              "SI",
+              "BY",
+              "SJ",
+              "SK",
+              "SM",
+              "GB",
+              "GE",
+              "GG",
+              "GI",
+              "CH",
+              "GR",
+              "CY",
+              "CZ",
+              "PL",
+              "LI",
+              "TR",
+              "UY",
+              "FK",
+              "CL",
+              "PY",
+              "CO",
+              "GS",
+              "BO",
+              "VE",
+              "BR",
+              "AR",
+              "GY",
+              "PE",
+              "EC",
+              "GF",
+              "SR",
+              "BB",
+              "TT",
+              "PR",
+              "JM",
+              "HN",
+              "DM",
+              "BL",
+              "BM",
+              "DO",
+              "HT",
+              "BQ",
+              "BS",
+              "BZ",
+              "MF",
+              "GD",
+              "CA",
+              "US",
+              "KN",
+              "SV",
+              "MQ",
+              "GL",
+              "SX",
+              "AG",
+              "MS",
+              "AI",
+              "GP",
+              "MX",
+              "GT",
+              "VC",
+              "KY",
+              "CR",
+              "TC",
+              "PA",
+              "VG",
+              "CU",
+              "VI",
+              "CW",
+              "AW",
+              "LC",
+              "NI",
+              "PM"
+            ]
+          },
+          "signUpOpen": true,
+          "shouldBlock": false,
+          "shapeInit": {
+            "ajaxEnable": true,
+            "scriptEnable": false
+          }
+        },
+        "$navList": {
+          "i18n": {
+            "logout": "Log out",
+            "login": "login",
+            "uploadVideo": "Upload video",
+            "watchNow": "Watch now",
+            "downloadOnAppStore": "Download it for free on the App Store",
+            "downloadOnGooglePlay": "Download it for free on Google Play",
+            "reflowDownload": "Download now",
+            "download": "Download",
+            "trending": "Trending",
+            "discover": "Discover",
+            "cookieBannerTitle": "Select your cookies preferences",
+            "cookieBannerSubTitle": "We use cookies and other technologies to improve your experience on our websites. By clicking \"Accept all\", you agree to let us use third-party cookies for analytics and advertising purposes. You can learn more about how we use cookies in our \u003ca href=\"https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=en\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eCookies Policy\u003c/a\u003e. To manage your cookies, click \"Manage settings\".",
+            "cookieBannerBtnManage": "Manage settings",
+            "cookieBannerBtnAccept": "Accept all",
+            "cookiesBannerDetails": "We and our partners use cookies and other technologies to  analyze traffic and optimize your experience. View more info and control your  cookies settings at any time in our Cookies Policy.",
+            "cookiesBannerCookiesPolicy": "Cookies Policy",
+            "cookiesBannerAccept": "Accept",
+            "webDoNotSellSettingsSavedToast": "Saved!",
+            "covidBannerText": "How TikTok is supporting our community through COVID-19",
+            "viewProfile": "View profile",
+            "viewAnalytics": "View Analytics",
+            "Logout": "Log out",
+            "businessSuite": "Business Suite"
+          },
+          "nav": [
+            {
+              "title": "Company",
+              "children": [
+                {
+                  "title": "About",
+                  "href": "https://www.tiktok.com/about?lang=en"
+                },
+                {
+                  "title": "Newsroom",
+                  "href": "https://newsroom.tiktok.com/"
+                },
+                {
+                  "title": "Contact",
+                  "href": "https://www.tiktok.com/about/contact?lang=en"
+                },
+                {
+                  "title": "Careers",
+                  "href": "https://careers.tiktok.com"
+                },
+                {
+                  "title": "ByteDance",
+                  "href": "https://www.bytedance.com/"
+                }
+              ]
+            },
+            {
+              "title": "Programs",
+              "children": [
+                {
+                  "title": "TikTok for Good",
+                  "href": "https://www.tiktok.com/forgood"
+                },
+                {
+                  "title": "Advertise",
+                  "href": "https://ads.tiktok.com/?refer=tiktok_web"
+                },
+                {
+                  "title": "Developers",
+                  "href": "https://developers.tiktok.com/?refer=tiktok_web"
+                }
+              ]
+            },
+            {
+              "title": "Support",
+              "children": [
+                {
+                  "title": "Help Center",
+                  "href": "https://support.tiktok.com/en"
+                },
+                {
+                  "title": "Safety Center",
+                  "href": "https://www.tiktok.com/safety?lang=en"
+                },
+                {
+                  "title": "Creator Portal",
+                  "href": "https://www.tiktok.com/creators/creator-portal/en-us/"
+                },
+                {
+                  "title": "Community Guidelines",
+                  "href": "https://www.tiktok.com/community-guidelines?lang=en"
+                },
+                {
+                  "title": "Transparency",
+                  "href": "https://www.tiktok.com/transparency?lang=en"
+                }
+              ]
+            },
+            {
+              "title": "Legal",
+              "children": [
+                {
+                  "title": "TikTok Platform Cookies Policy",
+                  "key": "cookie-policy",
+                  "href": "https://www.tiktok.com/legal/cookie-policy?lang=en"
+                },
+                {
+                  "title": "Intellectual Property Policy",
+                  "key": "copyright-policy",
+                  "href": "https://www.tiktok.com/legal/copyright-policy?lang=en"
+                },
+                {
+                  "title": "Law Enforcement",
+                  "key": "law-enforcement",
+                  "href": "https://www.tiktok.com/legal/law-enforcement?lang=en"
+                },
+                {
+                  "title": "Privacy Policy",
+                  "key": "privacy-policy",
+                  "href": "https://www.tiktok.com/legal/privacy-policy?lang=en"
+                },
+                {
+                  "title": "Terms of Service",
+                  "key": "terms-of-use",
+                  "href": "https://www.tiktok.com/legal/terms-of-use?lang=en"
+                }
+              ]
+            }
+          ],
+          "head": [
+            {
+              "title": "Home",
+              "href": "https://www.tiktok.com/en/"
+            },
+            {
+              "title": "About TikTok",
+              "href": "https://www.tiktok.com/about?lang=en"
+            },
+            {
+              "title": "Trending",
+              "href": "https://www.tiktok.com/trending?lang=en",
+              "visibleOnMobile": true
+            },
+            {
+              "title": "Discover",
+              "href": "https://www.tiktok.com/discover?lang=en"
+            },
+            {
+              "title": "Following",
+              "href": "https://www.tiktok.com/following?lang=en"
+            }
+          ],
+          "langList": [
+            {
+              "value": "id",
+              "label": "Bahasa Indonesia"
+            },
+            {
+              "value": "de",
+              "label": "Deutsch"
+            },
+            {
+              "value": "en",
+              "label": "English"
+            },
+            {
+              "value": "es",
+              "label": "Español"
+            },
+            {
+              "value": "fr",
+              "label": "Français"
+            },
+            {
+              "value": "it",
+              "label": "Italiano"
+            },
+            {
+              "value": "pl",
+              "label": "Polski"
+            },
+            {
+              "value": "pt_BR",
+              "label": "Português"
+            },
+            {
+              "value": "vi",
+              "label": "Tiếng Việt"
+            },
+            {
+              "value": "tr",
+              "label": "Türkçe"
+            },
+            {
+              "value": "ru",
+              "label": "Русский"
+            },
+            {
+              "value": "hi",
+              "label": "हिन्दी"
+            },
+            {
+              "value": "ko",
+              "label": "한국어"
+            },
+            {
+              "value": "ja",
+              "label": "日本語"
+            },
+            {
+              "value": "zh_Hant",
+              "label": "繁體中文"
+            },
+            {
+              "value": "ar",
+              "label": "العربية"
+            }
+          ]
+        },
+        "$isIMessage": false,
+        "$sgOpen": false
+      },
+      "aa59d67c2123f094d0d6798ffe651c4d": {},
+      "lang": "",
+      "feedConfig": {
+        "id": "1",
+        "pageType": 5,
+        "secUid": "",
+        "emptyTip": "No content"
+      },
+      "pageOptions": {
+        "footer": {
+          "hidden": true,
+          "showDownload": false
+        },
+        "header": {
+          "showUpload": true,
+          "type": "webapp"
+        }
+      },
+      "items": [
+        {
+          "id": "6932784263066684677",
+          "desc": "I‘m so colorful I can already change them #yzfamily #fürdich #fyp",
+          "createTime": 1614164651,
+          "scheduleTime": 0,
+          "video": {
+            "id": "6932784263066684677",
+            "height": 960,
+            "width": 540,
+            "duration": 13,
+            "ratio": "720p",
+            "cover": "https://p77-sign-sg.tiktokcdn.com/obj/tos-maliva-p-0068/c20f23e0d56740138268ad99d279b052?x-expires=1614297600\u0026x-signature=PPzz95Mjg3GexmKENpckJkb%2Fm%2BM%3D",
+            "originCover": "https://p77-sign-sg.tiktokcdn.com/obj/tos-maliva-p-0068/13e88c1732d74d1a980945a1ff9cdcf7_1614164654?x-expires=1614297600\u0026x-signature=52zPTpfYxZWnqUkSY7jz%2Bv1802Y%3D",
+            "dynamicCover": "https://p77-sign-sg.tiktokcdn.com/obj/tos-maliva-p-0068/75729b3b48fb437c95ac8766fc915a25_1614164653?x-expires=1614297600\u0026x-signature=iaLLPEdfe5SCNbV5if2%2Fncs2no4%3D",
+            "playAddr": "https://v16m.tiktokcdn.com/b993ac7d884cc37a940a77d481b44f5a/6038444b/video/tos/useast2a/tos-useast2a-ve-0068c001/26656f85234d48dca7bb10a39021a104/?a=1233\u0026br=2670\u0026bt=1335\u0026cd=0%7C0%7C1\u0026ch=0\u0026cr=0\u0026cs=0\u0026cv=1\u0026dr=0\u0026ds=3\u0026er=\u0026l=202102251843410101880322233D2025A7\u0026lr=tiktok_m\u0026mime_type=video_mp4\u0026pl=0\u0026qs=0\u0026rc=amtkbW9xZzw2MzMzaDczM0ApaDdoNjM7Zjw7N2k2Zzg6aWdsYjVgMl82Mm9gLS02MTZzcy1eMzRiLzAvNWNfYDI0MC46Yw%3D%3D\u0026vl=\u0026vr=",
+            "downloadAddr": "https://v16m.tiktokcdn.com/b993ac7d884cc37a940a77d481b44f5a/6038444b/video/tos/useast2a/tos-useast2a-ve-0068c001/26656f85234d48dca7bb10a39021a104/?a=1233\u0026br=2670\u0026bt=1335\u0026cd=0%7C0%7C1\u0026ch=0\u0026cr=0\u0026cs=0\u0026cv=1\u0026dr=0\u0026ds=3\u0026er=\u0026l=202102251843410101880322233D2025A7\u0026lr=tiktok_m\u0026mime_type=video_mp4\u0026pl=0\u0026qs=0\u0026rc=amtkbW9xZzw2MzMzaDczM0ApaDdoNjM7Zjw7N2k2Zzg6aWdsYjVgMl82Mm9gLS02MTZzcy1eMzRiLzAvNWNfYDI0MC46Yw%3D%3D\u0026vl=\u0026vr=",
+            "shareCover": [
+              "",
+              "https://p77-sign-sg.tiktokcdn.com/tos-maliva-p-0068/13e88c1732d74d1a980945a1ff9cdcf7_1614164654~tplv-tiktok-play.jpeg?x-expires=1614297600\u0026x-signature=jETxR4e5zMOQxUmqB8G7R4q1amk%3D",
+              "https://p77-sign-sg.tiktokcdn.com/tos-maliva-p-0068/13e88c1732d74d1a980945a1ff9cdcf7_1614164654~tplv-tiktok-play2.jpeg?x-expires=1614297600\u0026x-signature=8vgjNt%2FYhKs6LIi%2FcdWB91EtOdE%3D"
+            ],
+            "reflowCover": "https://p77-sign-sg.tiktokcdn.com/obj/tos-maliva-p-0068/216e5ef9ab734bd979e3ba285186b9b2?x-expires=1614297600\u0026x-signature=3L274tbcRl6K8lkcT8fP%2BDeVBjU%3D"
+          },
+          "author": {
+            "id": "6717651461067604997",
+            "shortId": "0",
+            "uniqueId": "youneszarou",
+            "nickname": "YZ",
+            "avatarLarger": "https://p77-sign-sg.tiktokcdn.com/tos-maliva-avt-0068/87ddae6263162ae1a4bae26cd02f416d~c5_1080x1080.jpeg?x-expires=1614362400\u0026x-signature=OEy16l8ultp5G%2Bu%2BP%2FNWi%2BbMK7Q%3D",
+            "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-maliva-avt-0068/87ddae6263162ae1a4bae26cd02f416d~c5_720x720.jpeg?x-expires=1614362400\u0026x-signature=ZQqFvy1ysl5cvIwicpZkXc7LO%2Fg%3D",
+            "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-maliva-avt-0068/87ddae6263162ae1a4bae26cd02f416d~c5_100x100.jpeg?x-expires=1614362400\u0026x-signature=LGoyZKlaTSwdWvy3d%2Bs2PmImxjQ%3D",
+            "signature": "Vote for me 🙏🏽❤️🥺",
+            "createTime": 1564046472,
+            "verified": true,
+            "secUid": "MS4wLjABAAAALP9H8t1_SVmfuAKXV1o9K8XqiaFLxm2ae-EJ5_AJcwogcI_d9btuf_fjbjFOMNpN",
+            "ftc": false,
+            "relation": 0,
+            "openFavorite": false,
+            "commentSetting": 0,
+            "duetSetting": 0,
+            "stitchSetting": 0,
+            "privateAccount": false,
+            "secret": false,
+            "roomId": ""
+          },
+          "music": {
+            "id": "242977707800637440",
+            "title": "Rasputin (7\" Version)",
+            "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/iesmusic-sg-local/v1/ies-msc/8b4ba7576482a79e2feb2434634530ce.m4a",
+            "coverLarge": "https://p77-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/c200943c41ef449eabaa457c9f56b23c.jpeg",
+            "coverMedium": "https://p77-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2102/c200943c41ef449eabaa457c9f56b23c.jpeg",
+            "coverThumb": "https://p77-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/c200943c41ef449eabaa457c9f56b23c.jpeg",
+            "authorName": "Boney M.",
+            "original": false,
+            "duration": 30,
+            "album": "Boney M.",
+            "scheduleSearchTime": 0
+          },
+          "challenges": [
+            {
+              "id": "1642147571873798",
+              "title": "yzfamily",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "5457735",
+              "title": "fürdich",
+              "desc": "Ein Song der nie vergeht!\n\nMacht mit beim neuen Remix von @diemai 😍  \nEinfach ein Duett machen zur aktuellen Single \u0026amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Für Dich\u0026amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; und ein live.ly Meet\u0026amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;Greet mit Vanessa Mai gewinnen 🔥",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "229207",
+              "title": "fyp",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            }
+          ],
+          "stats": {
+            "diggCount": 96300,
+            "shareCount": 76,
+            "commentCount": 846,
+            "playCount": 684800
+          },
+          "duetInfo": {
+            "duetFromId": "0"
+          },
+          "warnInfo": [],
+          "originalItem": false,
+          "officalItem": false,
+          "textExtra": [
+            {
+              "awemeId": "",
+              "start": 42,
+              "end": 51,
+              "hashtagId": "",
+              "hashtagName": "yzfamily",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 52,
+              "end": 60,
+              "hashtagId": "",
+              "hashtagName": "fürdich",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 61,
+              "end": 65,
+              "hashtagId": "",
+              "hashtagName": "fyp",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            }
+          ],
+          "secret": false,
+          "forFriend": false,
+          "digged": false,
+          "itemCommentStatus": 0,
+          "showNotPass": false,
+          "vl1": false,
+          "takeDown": 0,
+          "itemMute": false,
+          "effectStickers": [],
+          "authorStats": {
+            "followerCount": 24600000,
+            "followingCount": 575,
+            "heart": 452700000,
+            "heartCount": 452700000,
+            "videoCount": 735,
+            "diggCount": 15900
+          },
+          "privateItem": false,
+          "duetEnabled": true,
+          "stitchEnabled": true,
+          "stickersOnItem": [],
+          "isAd": false,
+          "shareEnabled": true
+        },
+        {
+          "id": "6905421942480702721",
+          "desc": "الرد على @nanji_nisa #n❤b #schweiz #🇨🇭 #سوريا🌹 #زيورخ #اكسبلور #n❤b #🙋‍♂️غوطاني #يالنجي_بالزيت #kochen👨‍🍳",
+          "createTime": 1607793837,
+          "scheduleTime": 0,
+          "video": {
+            "id": "6905421942480702721",
+            "height": 848,
+            "width": 480,
+            "duration": 14,
+            "ratio": "480p",
+            "cover": "https://p77-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/76e265bfd1d64a448ba87d4909f0c42b?x-expires=1614297600\u0026x-signature=M00kQjRGAOhd8%2FCNIgb%2Bt0BE0qM%3D",
+            "originCover": "https://p77-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/924a879ce14748589ec78218b31b6e76_1607793840?x-expires=1614297600\u0026x-signature=XCj6QBzsanP1TUOjsbtMLPxW9OE%3D",
+            "dynamicCover": "https://p77-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/52f3ab821ae4409093667fbdedf07806_1607793839?x-expires=1614297600\u0026x-signature=7X9eqwfdt3l%2FTMp2hcVuGbiz0iA%3D",
+            "playAddr": "https://v16m.tiktokcdn.com/3c8a8d1bd2d7fd65c503e9fc5ee12750/6038444c/video/tos/alisg/tos-alisg-pve-0037c001/840bf65eada04ba6aaece6b644f4a6cb/?a=1233\u0026br=2758\u0026bt=1379\u0026cd=0%7C0%7C0\u0026ch=0\u0026cr=0\u0026cs=0\u0026dr=0\u0026ds=2\u0026er=\u0026l=202102251843410101880322233D2025A7\u0026lr=tiktok_m\u0026mime_type=video_mp4\u0026pl=0\u0026qs=0\u0026rc=amY4cGo0ZWRpeTMzPDczM0ApNDc4ODg2NTs3Nzc5ZzRlZWduNTM0XjNobV5fLS1gMTRzczIyMF4xNGI0YTYuY15hXjQ6Yw%3D%3D\u0026vl=\u0026vr=",
+            "downloadAddr": "https://v16m.tiktokcdn.com/3c8a8d1bd2d7fd65c503e9fc5ee12750/6038444c/video/tos/alisg/tos-alisg-pve-0037c001/840bf65eada04ba6aaece6b644f4a6cb/?a=1233\u0026br=2758\u0026bt=1379\u0026cd=0%7C0%7C0\u0026ch=0\u0026cr=0\u0026cs=0\u0026dr=0\u0026ds=2\u0026er=\u0026l=202102251843410101880322233D2025A7\u0026lr=tiktok_m\u0026mime_type=video_mp4\u0026pl=0\u0026qs=0\u0026rc=amY4cGo0ZWRpeTMzPDczM0ApNDc4ODg2NTs3Nzc5ZzRlZWduNTM0XjNobV5fLS1gMTRzczIyMF4xNGI0YTYuY15hXjQ6Yw%3D%3D\u0026vl=\u0026vr=",
+            "shareCover": [
+              "",
+              "https://p77-sign-sg.tiktokcdn.com/tos-alisg-p-0037/924a879ce14748589ec78218b31b6e76_1607793840~tplv-tiktok-play.jpeg?x-expires=1614297600\u0026x-signature=inJqO0o9gdIiL4PhxFNHwUmCbDg%3D",
+              "https://p77-sign-sg.tiktokcdn.com/tos-alisg-p-0037/924a879ce14748589ec78218b31b6e76_1607793840~tplv-tiktok-play2.jpeg?x-expires=1614297600\u0026x-signature=s1pFqlbonh%2FxvFJdgt0kUQle06I%3D"
+            ],
+            "reflowCover": "https://p77-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/76e265bfd1d64a448ba87d4909f0c42b?x-expires=1614297600\u0026x-signature=M00kQjRGAOhd8%2FCNIgb%2Bt0BE0qM%3D"
+          },
+          "author": {
+            "id": "6668942441717284870",
+            "shortId": "0",
+            "uniqueId": "noureddin87",
+            "nickname": "الشيف نور الدين👨‍🍳",
+            "avatarLarger": "https://p77-sign-sg.tiktokcdn.com/tos-maliva-avt-0068/ff469662e8cd7de0bd97e3b9eb7b8fed~c5_1080x1080.jpeg?x-expires=1614362400\u0026x-signature=92b%2FfLImeFDtLmeXQ3p4pllg87s%3D",
+            "avatarMedium": "https://p77-sign-sg.tiktokcdn.com/tos-maliva-avt-0068/ff469662e8cd7de0bd97e3b9eb7b8fed~c5_720x720.jpeg?x-expires=1614362400\u0026x-signature=aJbnaVr4a9y%2B09mXa3qsi0YVllA%3D",
+            "avatarThumb": "https://p77-sign-sg.tiktokcdn.com/tos-maliva-avt-0068/ff469662e8cd7de0bd97e3b9eb7b8fed~c5_100x100.jpeg?x-expires=1614362400\u0026x-signature=VJt8UuwaCJb79baeqc0d7Ng6824%3D",
+            "signature": "🙋‍♂️شكراً للمتابعة اصدقائي 👨‍🦽لاتنسو لاشتراك بليوتيوب🌷 اخوكم نورالدين🇨🇭",
+            "createTime": 1568036135,
+            "verified": false,
+            "secUid": "MS4wLjABAAAA6tjV96PyPTTBNYBaus5Ng7SL6vMvvi9UBNf1F5sfyogGdZ1YRgrwprZtC_f1htxc",
+            "ftc": false,
+            "relation": 0,
+            "openFavorite": false,
+            "commentSetting": 0,
+            "duetSetting": 0,
+            "stitchSetting": 0,
+            "privateAccount": false,
+            "secret": false,
+            "roomId": ""
+          },
+          "music": {
+            "id": "6628087297596197637",
+            "title": "Original Sound",
+            "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1618185376220181",
+            "coverLarge": "https://p16-sg.tiktokcdn.com/img/musically-maliva-obj/c16000003f97583dac4~c5_720x720.jpeg",
+            "coverMedium": "https://p16-sg.tiktokcdn.com/img/musically-maliva-obj/c16000003f97583dac4~c5_200x200.jpeg",
+            "coverThumb": "https://p16-sg.tiktokcdn.com/img/musically-maliva-obj/c16000003f97583dac4~c5_100x100.jpeg",
+            "authorName": "Unknown",
+            "original": false,
+            "duration": 14,
+            "album": "Free Music \"Nasr Mahrous\"",
+            "scheduleSearchTime": 0
+          },
+          "challenges": [
+            {
+              "id": "1635457452317702",
+              "title": "n❤b",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "3909228",
+              "title": "schweiz",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "1592406318657541",
+              "title": "🇨🇭",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "1622950589536261",
+              "title": "سوريا🌹",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "1617959762676742",
+              "title": "زيورخ",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "41104849",
+              "title": "اكسبلور",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "1635457452317702",
+              "title": "n❤b",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "1683622955817985",
+              "title": "🙋‍♂️غوطاني",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "1657447928587269",
+              "title": "يالنجي_بالزيت",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            },
+            {
+              "id": "1680618022574082",
+              "title": "kochen👨‍🍳",
+              "desc": "",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "isCommerce": false
+            }
+          ],
+          "stats": {
+            "diggCount": 2919,
+            "shareCount": 108,
+            "commentCount": 185,
+            "playCount": 91700
+          },
+          "duetInfo": {
+            "duetFromId": "0"
+          },
+          "warnInfo": [],
+          "originalItem": false,
+          "officalItem": false,
+          "textExtra": [
+            {
+              "awemeId": "",
+              "start": 9,
+              "end": 20,
+              "hashtagId": "",
+              "hashtagName": "",
+              "type": 0,
+              "userId": "6744710252677301253",
+              "isCommerce": false,
+              "userUniqueId": "nana_ni.sa",
+              "secUid": "MS4wLjABAAAAhS6PYA0lqlwyikcfNrV9SgpJQ1sL_-Ur6qGHUoU3F1xBBCbJIl-WAmeppEmzNejK"
+            },
+            {
+              "awemeId": "",
+              "start": 21,
+              "end": 25,
+              "hashtagId": "",
+              "hashtagName": "n❤b",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 26,
+              "end": 34,
+              "hashtagId": "",
+              "hashtagName": "schweiz",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 35,
+              "end": 40,
+              "hashtagId": "",
+              "hashtagName": "🇨🇭",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 41,
+              "end": 49,
+              "hashtagId": "",
+              "hashtagName": "سوريا🌹",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 50,
+              "end": 56,
+              "hashtagId": "",
+              "hashtagName": "زيورخ",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 57,
+              "end": 65,
+              "hashtagId": "",
+              "hashtagName": "اكسبلور",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 66,
+              "end": 70,
+              "hashtagId": "",
+              "hashtagName": "n❤b",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 71,
+              "end": 83,
+              "hashtagId": "",
+              "hashtagName": "🙋‍♂️غوطاني",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 84,
+              "end": 98,
+              "hashtagId": "",
+              "hashtagName": "يالنجي_بالزيت",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            },
+            {
+              "awemeId": "",
+              "start": 99,
+              "end": 111,
+              "hashtagId": "",
+              "hashtagName": "kochen👨‍🍳",
+              "type": 1,
+              "userId": "",
+              "isCommerce": false,
+              "userUniqueId": "",
+              "secUid": ""
+            }
+          ],
+          "secret": false,
+          "forFriend": false,
+          "digged": false,
+          "itemCommentStatus": 0,
+          "showNotPass": false,
+          "vl1": false,
+          "takeDown": 0,
+          "itemMute": false,
+          "effectStickers": [],
+          "authorStats": {
+            "followerCount": 76900,
+            "followingCount": 34,
+            "heart": 1500000,
+            "heartCount": 1500000,
+            "videoCount": 1034,
+            "diggCount": 3063
+          },
+          "privateItem": false,
+          "duetEnabled": true,
+          "stitchEnabled": false,
+          "stickersOnItem": [
+            {
+              "stickerText": [],
+              "stickerType": 0
+            }
+          ],
+          "isAd": false,
+          "shareEnabled": true
+        }
+      ],
+      "videoListHasMore": true,
+      "videoListMaxCursor": 1,
+      "videoListStatusCode": 0,
+      "isSSR": true
+    },
+    "pathname": "/trending",
+    "loadInit": false
+  },
+  "page": "/trending",
+  "query": {
+    "is_copy_url": "1",
+    "is_from_webapp": "v1",
+    "seoProps": {
+      "pageId": "",
+      "pageType": 101,
+      "metaParams": {
+        "title": "TikTok - Make Your Day",
+        "keywords": "TikTok, TikTok, musically, mobile video, short-form video,tik tok, tick tock, tic tok, tic toc, tictok, тик ток, ticktock",
+        "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+        "robotsContent": "index, follow",
+        "canonicalHref": "https://www.tiktok.com/en/",
+        "applicableDevice": "pc, mobile"
+      },
+      "itemList": [],
+      "jsonldList": [
+        [
+          "WebSite",
+          {
+            "id": "https://www.tiktok.com/#website",
+            "url": "https://www.tiktok.com",
+            "name": "TikTok - Make Your Day",
+            "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+            "organProps": {
+              "id": "https://www.tiktok.com/#organization",
+              "name": "TikTok",
+              "url": "https://www.tiktok.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"
+              },
+              "sameAs": [
+                "https://www.instagram.com/tiktok/",
+                "https://www.facebook.com/tiktok",
+                "https://www.twitter.com/tiktok_us",
+                "https://www.youtube.com/channel/UChPd_WHrv3O-XAXXHLixs7g"
+              ]
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": "https://www.tiktok.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+              },
+              {
+                "@type": "SearchAction",
+                "target": "tiktok://search?keyword={search_term_string}",
+                "query-input": "required name=search_term_string"
+              }
+            ]
+          }
+        ],
+        [
+          "ItemList",
+          {
+            "itemList": []
+          }
+        ]
+      ]
+    },
+    "$language": "en",
+    "statusCode": 0,
+    "$initialProps": {
+      "$wid": "6933273718471607813",
+      "$host": "www.tiktok.com",
+      "$pageUrl": "/?is_copy_url=1\u0026is_from_webapp=v1",
+      "$fullUrl": "https://www.tiktok.com/?is_copy_url=1\u0026is_from_webapp=v1",
+      "$isMobile": false,
+      "$isAndroid": false,
+      "$isIOS": false,
+      "$needFix": false,
+      "$requestId": "51090581614278621810",
+      "$cookieConsent": {
+        "ga": true,
+        "af": true,
+        "fbp": true,
+        "lip": true
+      },
+      "$deviceLimitRegisterExpired": true,
+      "$slardarAlpha": {
+        "enable": true,
+        "pageId": [
+          "homepage_hot"
+        ],
+        "gcp": "https://sf16-scmcdn-gcp.ibytedtos.com/goofy/slardar/fe/sdk/browser.3.7.7-alpha.1.india.js",
+        "va": "https://sf16-scmcdn-va.ibytedtos.com/goofy/slardar/fe/sdk/browser.3.7.7-alpha.1.maliva.js"
+      },
+      "$csrfToken": "MPKYTj4AHbjuO3iulub6icfJ",
+      "$region": "CH",
+      "$language": "en",
+      "$originalLanguage": "en",
+      "$languageList": [
+        {
+          "value": "en",
+          "label": "English",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ar",
+          "label": "العربية",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "de-DE",
+          "label": "Deutsch (Deutschland)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "es",
+          "label": "Español",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "fi-FI",
+          "label": "Suomi (Suomi)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "fr",
+          "label": "Français",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "id-ID",
+          "label": "Bahasa Indonesia (Indonesia)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ja-JP",
+          "label": "日本語（日本）",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ko-KR",
+          "label": "한국어 (대한민국)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ms-MY",
+          "label": "Bahasa Melayu (Malaysia)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ru-RU",
+          "label": "Русский",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "th-TH",
+          "label": "ไทย (ไทย)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "tr-TR",
+          "label": "Türkçe (Türkiye)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "vi-VN",
+          "label": "Tiếng Việt (Việt Nam)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "zh-Hant-TW",
+          "label": "繁體中文",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "af-ZA",
+          "label": "Afrikaans",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "he-IL",
+          "label": "עברית (ישראל)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "jv-ID",
+          "label": "Basa Jawa (Indonesia)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ceb-PH",
+          "label": "Cebuano (Pilipinas)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "cs-CZ",
+          "label": "Čeština (Česká republika)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "it-IT",
+          "label": "Italiano (Italia)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "hu-HU",
+          "label": "Magyar (Magyarország)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "nl-NL",
+          "label": "Nederlands (Nederland)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pl-PL",
+          "label": "Polski (Polska)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pt-BR",
+          "label": "Português (Brasil)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ro-RO",
+          "label": "Română (Romania)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "sv-SE",
+          "label": "Svenska (Sverige)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "sw",
+          "label": "Kiswahili",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "fil-PH",
+          "label": "Filipino (Pilipinas)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "el-GR",
+          "label": "Ελληνικά (Ελλάδα)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "zu-ZA",
+          "label": "isiZulu",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "uk-UA",
+          "label": "Українська (Україна)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ur",
+          "label": "اردو",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "mr-IN",
+          "label": "मराठी",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "hi-IN",
+          "label": "हिंदी",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "bn-IN",
+          "label": "বাঙ্গালি (ভারত)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pa-IN",
+          "label": "ਪੰਜਾਬੀ (ਭਾਰਤ)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "gu-IN",
+          "label": "ગુજરાતી",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "or-IN",
+          "label": "ଓଡିଆ",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ta-IN",
+          "label": "தமிழ்",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "te-IN",
+          "label": "తెలుగు",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "kn-IN",
+          "label": "ಕನ್ನಡ",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ml-IN",
+          "label": "മലയാളം",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "my-MM",
+          "label": "မြန်မာ (မြန်မာ)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "km-KH",
+          "label": "ខ្មែរ (កម្ពុជា)",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "$appId": 1233,
+      "$os": "windows",
+      "$baseURL": "m.tiktok.com",
+      "$downloadLink": {
+        "amazon": {
+          "visible": true,
+          "normal": "https://www.amazon.com/dp/B0117U0G3M/"
+        },
+        "google": {
+          "visible": true,
+          "normal": "https://www.tiktok.com/download-link/af/com.zhiliaoapp.musically"
+        },
+        "apple": {
+          "visible": true,
+          "normal": "https://www.tiktok.com/download-link/af/id835599320"
+        }
+      },
+      "$abTestVersion": {
+        "versionName": "50008719,50039880,50038266,50012986,50037917",
+        "parameters": {
+          "shape_js_upload_test": {
+            "enable": "false"
+          },
+          "search_user_grayscale_test": {
+            "vid": "v2"
+          },
+          "shape_js_test": {
+            "enable": "true"
+          },
+          "video_mute_test": {
+            "vid": "v3"
+          },
+          "node_data_source_test": {
+            "vid": "v2"
+          },
+          "embed_v2_test": {
+            "vid": "v1"
+          },
+          "shape_js_webapp_test": {
+            "enable": "true"
+          },
+          "others_feed_test": {
+            "vid": "v3"
+          },
+          "open_live_switch": {
+            "open": true,
+            "showTotalUser": true
+          },
+          "video_detail_test": {
+            "vid": "v4"
+          },
+          "detail_page_video_card_test": {
+            "vid": "v1"
+          },
+          "open_url_test": {
+            "vid": "v1"
+          },
+          "mobile_video_detail_test": {
+            "vid": "v3"
+          },
+          "change_url_test": {
+            "vid": "v1"
+          },
+          "nothing_test": {
+            "vid": "v1"
+          }
+        }
+      },
+      "$appType": "m",
+      "$gray": {
+        "upload": false,
+        "tea": true
+      },
+      "$reflowType": "t",
+      "$legalList": [
+        {
+          "title": "TikTok Platform Cookies Policy",
+          "key": "cookie-policy",
+          "href": "https://www.tiktok.com/legal/cookie-policy?lang=en"
+        },
+        {
+          "title": "Intellectual Property Policy",
+          "key": "copyright-policy",
+          "href": "https://www.tiktok.com/legal/copyright-policy?lang=en"
+        },
+        {
+          "title": "Law Enforcement",
+          "key": "law-enforcement",
+          "href": "https://www.tiktok.com/legal/law-enforcement?lang=en"
+        },
+        {
+          "title": "Privacy Policy",
+          "key": "privacy-policy",
+          "href": "https://www.tiktok.com/legal/privacy-policy?lang=en"
+        },
+        {
+          "title": "Terms of Service",
+          "key": "terms-of-use",
+          "href": "https://www.tiktok.com/legal/terms-of-use?lang=en"
+        }
+      ],
+      "$botType": "others",
+      "$config": {
+        "covidBanner": {
+          "open": true,
+          "url": "https://www.tiktok.com/safety/resources/covid-19",
+          "background": "rgba(125,136,227,1)"
+        },
+        "bytedanceLink": {
+          "linkVisible": true,
+          "overrideUrl": ""
+        },
+        "krPopup": {
+          "open": false,
+          "url": "",
+          "text": []
+        },
+        "sgOpen": {
+          "SG_OPEN": false,
+          "BOT_THRESHOLD": 70,
+          "EXCLUDE_REGIONS": [
+            "DE",
+            "PT",
+            "DK",
+            "LT",
+            "LU",
+            "HR",
+            "LV",
+            "UA",
+            "HU",
+            "MC",
+            "MD",
+            "ME",
+            "IE",
+            "MK",
+            "EE",
+            "AD",
+            "IM",
+            "MT",
+            "IS",
+            "AL",
+            "IT",
+            "VA",
+            "ES",
+            "EU",
+            "AT",
+            "JE",
+            "RO",
+            "NL",
+            "BA",
+            "NO",
+            "RS",
+            "BE",
+            "FI",
+            "BG",
+            "FO",
+            "FR",
+            "SE",
+            "SI",
+            "BY",
+            "SJ",
+            "SK",
+            "SM",
+            "GB",
+            "GE",
+            "GG",
+            "GI",
+            "CH",
+            "GR",
+            "CY",
+            "CZ",
+            "PL",
+            "LI",
+            "TR",
+            "UY",
+            "FK",
+            "CL",
+            "PY",
+            "CO",
+            "GS",
+            "BO",
+            "VE",
+            "BR",
+            "AR",
+            "GY",
+            "PE",
+            "EC",
+            "GF",
+            "SR",
+            "BB",
+            "TT",
+            "PR",
+            "JM",
+            "HN",
+            "DM",
+            "BL",
+            "BM",
+            "DO",
+            "HT",
+            "BQ",
+            "BS",
+            "BZ",
+            "MF",
+            "GD",
+            "CA",
+            "US",
+            "KN",
+            "SV",
+            "MQ",
+            "GL",
+            "SX",
+            "AG",
+            "MS",
+            "AI",
+            "GP",
+            "MX",
+            "GT",
+            "VC",
+            "KY",
+            "CR",
+            "TC",
+            "PA",
+            "VG",
+            "CU",
+            "VI",
+            "CW",
+            "AW",
+            "LC",
+            "NI",
+            "PM"
+          ]
+        },
+        "signUpOpen": true,
+        "shouldBlock": false,
+        "shapeInit": {
+          "ajaxEnable": true,
+          "scriptEnable": false
+        }
+      },
+      "$navList": {
+        "i18n": {
+          "logout": "Log out",
+          "login": "login",
+          "uploadVideo": "Upload video",
+          "watchNow": "Watch now",
+          "downloadOnAppStore": "Download it for free on the App Store",
+          "downloadOnGooglePlay": "Download it for free on Google Play",
+          "reflowDownload": "Download now",
+          "download": "Download",
+          "trending": "Trending",
+          "discover": "Discover",
+          "cookieBannerTitle": "Select your cookies preferences",
+          "cookieBannerSubTitle": "We use cookies and other technologies to improve your experience on our websites. By clicking \"Accept all\", you agree to let us use third-party cookies for analytics and advertising purposes. You can learn more about how we use cookies in our \u003ca href=\"https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=en\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eCookies Policy\u003c/a\u003e. To manage your cookies, click \"Manage settings\".",
+          "cookieBannerBtnManage": "Manage settings",
+          "cookieBannerBtnAccept": "Accept all",
+          "cookiesBannerDetails": "We and our partners use cookies and other technologies to  analyze traffic and optimize your experience. View more info and control your  cookies settings at any time in our Cookies Policy.",
+          "cookiesBannerCookiesPolicy": "Cookies Policy",
+          "cookiesBannerAccept": "Accept",
+          "webDoNotSellSettingsSavedToast": "Saved!",
+          "covidBannerText": "How TikTok is supporting our community through COVID-19",
+          "viewProfile": "View profile",
+          "viewAnalytics": "View Analytics",
+          "Logout": "Log out",
+          "businessSuite": "Business Suite"
+        },
+        "nav": [
+          {
+            "title": "Company",
+            "children": [
+              {
+                "title": "About",
+                "href": "https://www.tiktok.com/about?lang=en"
+              },
+              {
+                "title": "Newsroom",
+                "href": "https://newsroom.tiktok.com/"
+              },
+              {
+                "title": "Contact",
+                "href": "https://www.tiktok.com/about/contact?lang=en"
+              },
+              {
+                "title": "Careers",
+                "href": "https://careers.tiktok.com"
+              },
+              {
+                "title": "ByteDance",
+                "href": "https://www.bytedance.com/"
+              }
+            ]
+          },
+          {
+            "title": "Programs",
+            "children": [
+              {
+                "title": "TikTok for Good",
+                "href": "https://www.tiktok.com/forgood"
+              },
+              {
+                "title": "Advertise",
+                "href": "https://ads.tiktok.com/?refer=tiktok_web"
+              },
+              {
+                "title": "Developers",
+                "href": "https://developers.tiktok.com/?refer=tiktok_web"
+              }
+            ]
+          },
+          {
+            "title": "Support",
+            "children": [
+              {
+                "title": "Help Center",
+                "href": "https://support.tiktok.com/en"
+              },
+              {
+                "title": "Safety Center",
+                "href": "https://www.tiktok.com/safety?lang=en"
+              },
+              {
+                "title": "Creator Portal",
+                "href": "https://www.tiktok.com/creators/creator-portal/en-us/"
+              },
+              {
+                "title": "Community Guidelines",
+                "href": "https://www.tiktok.com/community-guidelines?lang=en"
+              },
+              {
+                "title": "Transparency",
+                "href": "https://www.tiktok.com/transparency?lang=en"
+              }
+            ]
+          },
+          {
+            "title": "Legal",
+            "children": [
+              {
+                "title": "TikTok Platform Cookies Policy",
+                "key": "cookie-policy",
+                "href": "https://www.tiktok.com/legal/cookie-policy?lang=en"
+              },
+              {
+                "title": "Intellectual Property Policy",
+                "key": "copyright-policy",
+                "href": "https://www.tiktok.com/legal/copyright-policy?lang=en"
+              },
+              {
+                "title": "Law Enforcement",
+                "key": "law-enforcement",
+                "href": "https://www.tiktok.com/legal/law-enforcement?lang=en"
+              },
+              {
+                "title": "Privacy Policy",
+                "key": "privacy-policy",
+                "href": "https://www.tiktok.com/legal/privacy-policy?lang=en"
+              },
+              {
+                "title": "Terms of Service",
+                "key": "terms-of-use",
+                "href": "https://www.tiktok.com/legal/terms-of-use?lang=en"
+              }
+            ]
+          }
+        ],
+        "head": [
+          {
+            "title": "Home",
+            "href": "https://www.tiktok.com/en/"
+          },
+          {
+            "title": "About TikTok",
+            "href": "https://www.tiktok.com/about?lang=en"
+          },
+          {
+            "title": "Trending",
+            "href": "https://www.tiktok.com/trending?lang=en",
+            "visibleOnMobile": true
+          },
+          {
+            "title": "Discover",
+            "href": "https://www.tiktok.com/discover?lang=en"
+          },
+          {
+            "title": "Following",
+            "href": "https://www.tiktok.com/following?lang=en"
+          }
+        ],
+        "langList": [
+          {
+            "value": "id",
+            "label": "Bahasa Indonesia"
+          },
+          {
+            "value": "de",
+            "label": "Deutsch"
+          },
+          {
+            "value": "en",
+            "label": "English"
+          },
+          {
+            "value": "es",
+            "label": "Español"
+          },
+          {
+            "value": "fr",
+            "label": "Français"
+          },
+          {
+            "value": "it",
+            "label": "Italiano"
+          },
+          {
+            "value": "pl",
+            "label": "Polski"
+          },
+          {
+            "value": "pt_BR",
+            "label": "Português"
+          },
+          {
+            "value": "vi",
+            "label": "Tiếng Việt"
+          },
+          {
+            "value": "tr",
+            "label": "Türkçe"
+          },
+          {
+            "value": "ru",
+            "label": "Русский"
+          },
+          {
+            "value": "hi",
+            "label": "हिन्दी"
+          },
+          {
+            "value": "ko",
+            "label": "한국어"
+          },
+          {
+            "value": "ja",
+            "label": "日本語"
+          },
+          {
+            "value": "zh_Hant",
+            "label": "繁體中文"
+          },
+          {
+            "value": "ar",
+            "label": "العربية"
+          }
+        ]
+      },
+      "$isIMessage": false,
+      "$sgOpen": false
+    },
+    "aa59d67c2123f094d0d6798ffe651c4d": {},
+    "lang": ""
+  },
+  "buildId": "1.0.3.2534",
+  "assetPrefix": "https://sf16-scmcdn-va.ibytedtos.com/goofy/tiktok/web/node",
+  "isFallback": false,
+  "customServer": true,
+  "gip": true,
+  "appGip": true
+}
