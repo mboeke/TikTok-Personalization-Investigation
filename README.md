@@ -1,6 +1,6 @@
 # An Empirical Investigation of Personalization Factors on TikTok
 
-In this repository we publish all software resources that were utilized to perform a sock-puppet audit on the web-version of TikTok to mimic a human user. With this audit we focused on analyzing the personalozation factors and their influence on the recommendation algorithm of TikTok.
+In this repository we publish all software resources that were utilized to perform a sock-puppet audit on the web-version of TikTok to mimic a human user. With this audit we focused on analyzing the personalozation factors and their influence on the recommendation algorithm of TikTok. You may find our work here: **LINK**
 
 Within this ReadMe we will provide a short overview on how one can use our code to replicate our results. Please note that eventhough we are confident that our results are trustworthy you may encounter different ones due to different time periods and the continous development of the recommendation algorithm by TikTok.
 
