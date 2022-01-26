@@ -9,8 +9,8 @@ import operator
 import string
 import random
 
-# SKIP-GRAM Model: data extraction, cleaning, filtering, and training
-
+# Special thanks to Jan Scholich (janscho@student.ethz.ch) for significantly contributing to the implementation of
+# the Skip Gram Model as outlined below.
 
 def sigmoid(x):
     """

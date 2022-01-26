@@ -10,6 +10,8 @@ import seaborn as sn
 import pandas as pd
 import numpy as np
 
+# Special thanks to Jan Scholich (janscho@student.ethz.ch) for significantly contributing to the implementation of
+# the Skip Gram Model as outlined below.
 
 # Skip Gram Model Evaluation from trained model
 
